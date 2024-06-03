@@ -223,3 +223,35 @@
 2024-06-02 17:31:01,464 - DEBUG - STREAM b'gAMA' 54 4
 2024-06-02 17:31:01,464 - DEBUG - STREAM b'pHYs' 70 9
 2024-06-02 17:31:01,464 - DEBUG - STREAM b'IDAT' 91 9713
+2024-06-03 10:32:40,980 - DEBUG - STREAM b'IHDR' 16 13
+2024-06-03 10:32:40,980 - DEBUG - STREAM b'IDAT' 41 7658
+2024-06-03 10:32:57,500 - INFO - Image loaded successfully.
+2024-06-03 10:32:57,503 - INFO - Image converted to RGB format.
+2024-06-03 10:32:58,131 - INFO - Text extracted from image successfully.
+2024-06-03 10:32:58,149 - ERROR - Exception: No module named 'openpyxl'
+2024-06-03 10:33:11,966 - INFO - Image loaded successfully.
+2024-06-03 10:33:11,966 - INFO - Image converted to RGB format.
+2024-06-03 10:33:12,184 - INFO - Text extracted from image successfully.
+2024-06-03 10:33:12,187 - ERROR - Exception: No module named 'openpyxl'
+2024-06-03 10:35:13,199 - INFO - Image loaded successfully.
+2024-06-03 10:35:13,200 - INFO - Image converted to RGB format.
+2024-06-03 10:35:13,417 - INFO - Text extracted from image successfully.
+2024-06-03 10:35:13,420 - ERROR - Exception: No module named 'openpyxl'
+2024-06-03 10:37:51,710 - DEBUG - STREAM b'IHDR' 16 13
+2024-06-03 10:37:51,710 - DEBUG - STREAM b'sRGB' 41 1
+2024-06-03 10:37:51,710 - DEBUG - STREAM b'gAMA' 54 4
+2024-06-03 10:37:51,710 - DEBUG - STREAM b'pHYs' 70 9
+2024-06-03 10:37:51,711 - DEBUG - STREAM b'IDAT' 91 7089
+2024-06-03 10:38:08,765 - INFO - Image loaded successfully.
+2024-06-03 10:38:08,765 - INFO - Image converted to RGB format.
+2024-06-03 10:38:09,019 - INFO - Text extracted from image successfully.
+2024-06-03 10:38:09,023 - ERROR - Exception: No module named 'openpyxl'
+2024-06-03 10:39:42,617 - DEBUG - STREAM b'IHDR' 16 13
+2024-06-03 10:39:42,617 - DEBUG - STREAM b'sRGB' 41 1
+2024-06-03 10:39:42,617 - DEBUG - STREAM b'gAMA' 54 4
+2024-06-03 10:39:42,617 - DEBUG - STREAM b'pHYs' 70 9
+2024-06-03 10:39:42,617 - DEBUG - STREAM b'IDAT' 91 6965
+2024-06-03 10:42:30,833 - INFO - Image loaded successfully.
+2024-06-03 10:42:30,839 - INFO - Image converted to RGB format.
+2024-06-03 10:42:31,402 - INFO - Text extracted from image successfully.
+2024-06-03 10:42:31,421 - INFO - Text saved to D:/test/test.xlsx

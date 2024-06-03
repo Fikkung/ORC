@@ -2,11 +2,13 @@ import os
 import pytesseract
 import cv2
 import pandas as pd
-from tkinter import Tk, Button, Label, filedialog, messagebox, Entry, Frame
+from tkinter import Tk, Button, Label, filedialog, messagebox, Frame
 from tkinter.font import Font
 from PIL import Image, ImageTk
 import logging
 import re
+import openpyxl
+
 
 # ตั้งค่า logging
 logging.basicConfig(filename='ocr_log.txt', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -124,6 +126,11 @@ class OCRApp:
             logging.error(f"FileNotFoundError: {fnf_error}")
             messagebox.showerror("Error", f"An error occurred: {fnf_error}")
             print(f"An error occurred: {fnf_error}")
+
+        except pytesseract.TesseractError as tess_error:
+            logging.error(f"TesseractError: {tess_error}")
+            messagebox.showerror("Error", f"An OCR error occurred: {tess_error}")
+            print(f"An OCR error occurred: {tess_error}")
 
         except Exception as e:
             logging.error(f"Exception: {e}")
