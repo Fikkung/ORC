@@ -17,7 +17,7 @@ logging.basicConfig(filename='ocr_log.txt', level=logging.DEBUG, format='%(ascti
 os.environ['TESSDATA_PREFIX'] = r'C:\Program Files\Tesseract-OCR\tessdata'
 
 # Set the path to the Tesseract executable
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+# pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 tessdata_dir_config = r'--tessdata-dir "C:\Program Files\Tesseract-OCR\tessdata"'
 
 class OCRApp:

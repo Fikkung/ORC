@@ -255,3 +255,38 @@
 2024-06-03 10:42:30,839 - INFO - Image converted to RGB format.
 2024-06-03 10:42:31,402 - INFO - Text extracted from image successfully.
 2024-06-03 10:42:31,421 - INFO - Text saved to D:/test/test.xlsx
+2024-06-20 11:39:32,471 - DEBUG - STREAM b'IHDR' 16 13
+2024-06-20 11:39:32,471 - DEBUG - STREAM b'sRGB' 41 1
+2024-06-20 11:39:32,471 - DEBUG - STREAM b'gAMA' 54 4
+2024-06-20 11:39:32,471 - DEBUG - STREAM b'pHYs' 70 9
+2024-06-20 11:39:32,471 - DEBUG - STREAM b'IDAT' 91 1696
+2024-06-20 11:39:53,706 - INFO - Image loaded successfully.
+2024-06-20 11:39:53,706 - INFO - Image converted to RGB format.
+2024-06-20 11:39:54,387 - INFO - Text extracted from image successfully.
+2024-06-20 11:39:54,395 - ERROR - Exception: [Errno 13] Permission denied: 'C:/1_Thakdanai/ocr.xlsx'
+2024-06-20 11:40:02,524 - INFO - Image loaded successfully.
+2024-06-20 11:40:02,524 - INFO - Image converted to RGB format.
+2024-06-20 11:40:03,237 - INFO - Text extracted from image successfully.
+2024-06-20 11:40:03,285 - INFO - Text saved to C:/1_Thakdanai/ocr1.xlsx
+2024-09-04 15:51:42,101 - INFO - Image loaded successfully.
+2024-09-04 15:51:42,113 - INFO - Image converted to RGB format.
+2024-09-04 15:51:43,398 - INFO - Text extracted from image successfully.
+2024-09-04 15:51:43,428 - INFO - Text saved to C:/Users/NSCNB-63-003/Downloads/\u0e30\u0e33\u0e2b\u0e30.xlsx
+2024-09-04 15:52:50,323 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-04 15:52:50,323 - DEBUG - STREAM b'sRGB' 41 1
+2024-09-04 15:52:50,323 - DEBUG - STREAM b'gAMA' 54 4
+2024-09-04 15:52:50,323 - DEBUG - STREAM b'pHYs' 70 9
+2024-09-04 15:52:50,323 - DEBUG - STREAM b'IDAT' 91 14612
+2024-09-04 15:52:59,765 - INFO - Image loaded successfully.
+2024-09-04 15:52:59,765 - INFO - Image converted to RGB format.
+2024-09-04 15:53:00,113 - INFO - Text extracted from image successfully.
+2024-09-04 15:53:00,131 - INFO - Text saved to C:/Users/NSCNB-63-003/Downloads/\u0e45.xlsx
+2024-09-04 16:02:24,492 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-04 16:02:24,493 - DEBUG - STREAM b'sRGB' 41 1
+2024-09-04 16:02:24,493 - DEBUG - STREAM b'gAMA' 54 4
+2024-09-04 16:02:24,493 - DEBUG - STREAM b'pHYs' 70 9
+2024-09-04 16:02:24,493 - DEBUG - STREAM b'IDAT' 91 6923
+2024-09-04 16:02:34,912 - INFO - Image loaded successfully.
+2024-09-04 16:02:34,916 - INFO - Image converted to RGB format.
+2024-09-04 16:02:35,781 - INFO - Text extracted from image successfully.
+2024-09-04 16:02:35,808 - INFO - Text saved to C:/Users/NSCNB-63-003/Downloads/aaa.xlsx
